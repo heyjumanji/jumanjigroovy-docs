@@ -62,3 +62,8 @@
 
 › **How to fix?**
 > Simply disconnect the bot from your vc and make the bot join again to your vc by running `/join` and play your song or playlist by running `/play`. 
+
+
+🌿 :: We will update the docs as soon as we find more bugs and its solution.
+
+• You can submit your issue here [issues](https://discord.io/jumanjihub)
