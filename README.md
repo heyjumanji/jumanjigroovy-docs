@@ -55,3 +55,10 @@
 • `/stats` - Get information about the bot
 
 • `/volume` - Change the volume of the current song
+
+## Known Issues:
+• #1. **Why the bot not playing anything?**
+> This might be the bot lavalink server instability, as we host the bot in our private servers and the lavalink to. Sometimes the bot might show some error on playing.
+
+› **How to fix?**
+> Simply disconnect the bot from your vc and make the bot join again to your vc by running `/join` and play your song or playlist by running `/play`. 
