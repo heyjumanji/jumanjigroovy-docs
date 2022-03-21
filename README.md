@@ -1,4 +1,4 @@
-# JumanJi's Groovy!
+LA# JumanJi's Groovy!
 > **Info:** Hi I'm JumanJi's Groovy! Im an advanced and simple discord music bot which supports Spotify, Apple Music, YouTube & many more and enjoy best quality streaming on your vc!
 
 ## Commands List:
@@ -64,7 +64,7 @@
 > Simply disconnect the bot from your vc and make the bot join again to your vc by running `/join` and play your song or playlist by running `/play`. 
 
 ## Intex
-• [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy.wiki.git)
+• [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/FAQ#wiki-pages-box)
 
 
 _________________________
