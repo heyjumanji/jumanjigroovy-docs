@@ -1,4 +1,4 @@
-LA# JumanJi's Groovy!
+# JumanJi's Groovy!
 > **Info:** Hi I'm JumanJi's Groovy! Im an advanced and simple discord music bot which supports Spotify, Apple Music, YouTube & many more and enjoy best quality streaming on your vc!
 
 ## Commands List:
