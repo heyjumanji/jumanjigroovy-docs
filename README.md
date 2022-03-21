@@ -63,6 +63,11 @@
 › **How to fix?**
 > Simply disconnect the bot from your vc and make the bot join again to your vc by running `/join` and play your song or playlist by running `/play`. 
 
+## Intex
+• [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy.wiki.git)
+
+
+_________________________
 
 🌿 :: We will update the docs as soon as we find more bugs and its solution.
 
