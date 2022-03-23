@@ -64,7 +64,7 @@
 > Simply disconnect the bot from your vc and make the bot join again to your vc by running `/join` and play your song or playlist by running `/play`. 
 
 ## Intex
-❓ • [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/FAQ#wiki-pages-box)
+❓ • [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/FAQ)
 
 📢 • [Status & Updates](https://www.statusbot.gg/status/879344819074396170)
 
