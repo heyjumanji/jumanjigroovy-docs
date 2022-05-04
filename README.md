@@ -68,11 +68,11 @@
 
 📢 • [Status & Updates](https://www.statusbot.gg/status/879344819074396170)
 
-📑 • [Join The Community](https://discord.io/jumanjihub)
+🐸 • [Join The Community](https://discord.io/jumanjihub)
 _________________________
 
 🌿 :: We will update the docs as soon as we find more bugs and its solution.
 
 • You can submit your issue here [issues](https://discord.io/jumanjihub)
 
-[Jump to top](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/blob/main/README.md#jumanjis-groovy)
+⬆️ [Jump to top](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/blob/main/README.md#jumanjis-groovy)
