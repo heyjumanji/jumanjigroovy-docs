@@ -67,8 +67,6 @@
 ❓ • [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/FAQ)
 
 📢 • [Status & Updates](https://www.statusbot.gg/status/879344819074396170)
-
-📑 • [How to invite ?](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/How-to-invite-%3F#wiki-pages-box)
 _________________________
 
 🌿 :: We will update the docs as soon as we find more bugs and its solution.
