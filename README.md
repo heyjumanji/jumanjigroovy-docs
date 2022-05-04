@@ -2,7 +2,7 @@
 > **Info:** Hi I'm JumanJi's Groovy! Im an advanced and simple discord music bot which supports Spotify, Apple Music, YouTube & many more and enjoy best quality streaming on your vc!
 
 ## Commands List:
-• `/247` - toggles 24/7
+• `/nonstop` - toggles 24/7
 
 • `/clear` - Clear all tracks from queue
 
@@ -10,15 +10,15 @@
 
 • `/filters` - add or remove filters
 
-• `/grab` - Saves current song to your DM's
+• `/save` - Saves current song to your DM's
 
 • `/help` - Shows help commands
 
-• `/invite` - Invite me to your server
+• `/invite` - Invite me to your server (not available)
 
 • `/join` - Joins the voice channel
 
-• `/loop` - Loop the current song
+• `/loopsong` - Loop the current song
 
 • `/loopqueue` - Loop the queue
 
@@ -52,7 +52,7 @@
 
 • `/skipto` - skip to a specific song in the queue
 
-• `/stats` - Get information about the bot
+• `/info` - Get information about the bot
 
 • `/volume` - Change the volume of the current song
 
