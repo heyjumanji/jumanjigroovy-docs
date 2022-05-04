@@ -75,4 +75,4 @@ _________________________
 
 • You can submit your issue here [issues](https://discord.io/jumanjihub)
 
-⬆️ [Jump to top](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/blob/main/README.md#jumanjis-groovy)
+⬆️ [ [Jump to top](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/blob/main/README.md#jumanjis-groovy) ]
