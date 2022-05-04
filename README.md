@@ -67,6 +67,8 @@
 ❓ • [Faq](https://github.com/JumanJionGitHub/JumanJi-s-Groovy/wiki/FAQ)
 
 📢 • [Status & Updates](https://www.statusbot.gg/status/879344819074396170)
+
+📑 • [Join The Community](https://discord.io/jumanjihub)
 _________________________
 
 🌿 :: We will update the docs as soon as we find more bugs and its solution.
