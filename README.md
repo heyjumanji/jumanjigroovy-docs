@@ -1,9 +1,10 @@
 # JumanJi's Groovy!
 > **Info:** Hi I'm JumanJi's Groovy! Im an advanced and simple discord music bot which supports Spotify, Apple Music, YouTube & many more and enjoy best quality streaming on your vc!
 
-## Commands List:
-`/nonstop` | toggles 24/7
+### Commands List:
+Commands | Work
 ------------ | ---
+`/nonstop` | toggles 24/7
 `/clear`   | Clear all tracks from queue
 `/disconnect` | Stops the music and leaves the voice channel
 `/filters` | add or remove filters
