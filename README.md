@@ -32,6 +32,7 @@ Commands | Work
 `/shuffle` | Shuffle the current queue.
 `/skip` | Skip the current song
 `/skipto` | skip to a specific song in the queue
+`/ping (new✨)` | Check the bot latency
 `/info` | Get information about the bot
 `/volume` | Change the volume of the current song
 
