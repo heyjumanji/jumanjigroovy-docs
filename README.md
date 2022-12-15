@@ -4,6 +4,8 @@
 ### Commands List:
 Commands | Work
 ------------ | ---
+`/autoplay (new✨)` | Add relatable songs to queue of current plying
+`/autopause (new✨)` | Automatically pause when a user left the vc 
 `/nonstop` | toggles 24/7
 `/clear`   | Clear all tracks from queue
 `/disconnect` | Stops the music and leaves the voice channel
