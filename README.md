@@ -8,6 +8,7 @@ Commands | Work
 `/autopause (new✨)` | Automatically pause when a user left the vc 
 `/nonstop` | toggles 24/7
 `/clear`   | Clear all tracks from queue
+`/purge-botmsg (new✨)` | Clean bots message in a channel
 `/disconnect` | Stops the music and leaves the voice channel
 `/filters` | add or remove filters
 `/save` | Saves current song to your DM's
